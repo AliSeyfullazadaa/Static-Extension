@@ -1,0 +1,30 @@
+C:\Users\User\Desktop\Interface\CarTask\CarTask\bin\Debug\net6.0\CarTask.exe
+C:\Users\User\Desktop\Interface\CarTask\CarTask\bin\Debug\net6.0\CarTask.deps.json
+C:\Users\User\Desktop\Interface\CarTask\CarTask\bin\Debug\net6.0\CarTask.runtimeconfig.json
+C:\Users\User\Desktop\Interface\CarTask\CarTask\bin\Debug\net6.0\CarTask.dll
+C:\Users\User\Desktop\Interface\CarTask\CarTask\bin\Debug\net6.0\CarTask.pdb
+C:\Users\User\Desktop\Interface\CarTask\CarTask\obj\Debug\net6.0\CarTask.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Interface\CarTask\CarTask\obj\Debug\net6.0\CarTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Interface\CarTask\CarTask\obj\Debug\net6.0\CarTask.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Interface\CarTask\CarTask\obj\Debug\net6.0\CarTask.AssemblyInfo.cs
+C:\Users\User\Desktop\Interface\CarTask\CarTask\obj\Debug\net6.0\CarTask.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Interface\CarTask\CarTask\obj\Debug\net6.0\CarTask.dll
+C:\Users\User\Desktop\Interface\CarTask\CarTask\obj\Debug\net6.0\refint\CarTask.dll
+C:\Users\User\Desktop\Interface\CarTask\CarTask\obj\Debug\net6.0\CarTask.pdb
+C:\Users\User\Desktop\Interface\CarTask\CarTask\obj\Debug\net6.0\CarTask.genruntimeconfig.cache
+C:\Users\User\Desktop\Interface\CarTask\CarTask\obj\Debug\net6.0\ref\CarTask.dll
+C:\Users\Rafael Mehdiyev\Desktop\CarTask\CarTask\obj\Debug\net6.0\CarTask.csproj.AssemblyReference.cache
+C:\Users\Rafael Mehdiyev\Desktop\CarTask\CarTask\obj\Debug\net6.0\CarTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael Mehdiyev\Desktop\CarTask\CarTask\obj\Debug\net6.0\CarTask.AssemblyInfoInputs.cache
+C:\Users\Rafael Mehdiyev\Desktop\CarTask\CarTask\obj\Debug\net6.0\CarTask.AssemblyInfo.cs
+C:\Users\Rafael Mehdiyev\Desktop\CarTask\CarTask\obj\Debug\net6.0\CarTask.csproj.CoreCompileInputs.cache
+C:\Users\Rafael Mehdiyev\Desktop\CarTask\CarTask\obj\Debug\net6.0\CarTask.dll
+C:\Users\Rafael Mehdiyev\Desktop\CarTask\CarTask\obj\Debug\net6.0\refint\CarTask.dll
+C:\Users\Rafael Mehdiyev\Desktop\CarTask\CarTask\obj\Debug\net6.0\CarTask.pdb
+C:\Users\Rafael Mehdiyev\Desktop\CarTask\CarTask\bin\Debug\net6.0\CarTask.exe
+C:\Users\Rafael Mehdiyev\Desktop\CarTask\CarTask\bin\Debug\net6.0\CarTask.deps.json
+C:\Users\Rafael Mehdiyev\Desktop\CarTask\CarTask\bin\Debug\net6.0\CarTask.runtimeconfig.json
+C:\Users\Rafael Mehdiyev\Desktop\CarTask\CarTask\bin\Debug\net6.0\CarTask.dll
+C:\Users\Rafael Mehdiyev\Desktop\CarTask\CarTask\bin\Debug\net6.0\CarTask.pdb
+C:\Users\Rafael Mehdiyev\Desktop\CarTask\CarTask\obj\Debug\net6.0\CarTask.genruntimeconfig.cache
+C:\Users\Rafael Mehdiyev\Desktop\CarTask\CarTask\obj\Debug\net6.0\ref\CarTask.dll
